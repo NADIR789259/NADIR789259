@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Notty  <br><br>🎓 Polytechnic (Computer Engineering) student  <br>📊 Aspiring Data Analyst | SQL • Excel • Python • Power BI  <br><br>🐍 Working with Python for data analysis and automation  <br>🤖 Exploring AI tools to enhance data insights and productivity  <br><br>💡 I enjoy transforming raw data into meaningful insights and solving real-world problems  <br>📈 Currently building hands-on projects using SQL, Excel, Python, and AI-assisted workflows  <br><br>🚀 Actively learning Power BI, statistics, and applied AI for data-driven decision making  <br>📫 Open to internships, entry-level roles, and collaborative projects
+👋 Hi, I'm Notty  <br><br>🎓 Diploma (Computer Engineering) student  <br>📊 Aspiring Data Analyst | SQL • Excel • Python • Power BI  <br><br>🐍 Working with Python for data analysis and automation  <br>🤖 Exploring AI tools to enhance data insights and productivity  <br><br>💡 I enjoy transforming raw data into meaningful insights and solving real-world problems  <br>📈 Currently building hands-on projects using SQL, Excel, Python, and AI-assisted workflows  <br><br>🚀 Actively learning Power BI, statistics, and applied AI for data-driven decision making  <br>📫 Open to internships, entry-level roles, and collaborative projects
 
 
 ## 🌐 Socials:
