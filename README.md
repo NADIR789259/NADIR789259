@@ -1,18 +1,88 @@
-# 💫 About Me:
-👋 Hi, I'm Notty  <br><br>🎓 Diploma (Computer Engineering) student  <br>📊 Aspiring Data Analyst | SQL • Excel • Python • Power BI  <br><br>🐍 Working with Python for data analysis and automation  <br>🤖 Exploring AI tools to enhance data insights and productivity  <br><br>💡 I enjoy transforming raw data into meaningful insights and solving real-world problems  <br>📈 Currently building hands-on projects using SQL, Excel, Python, and AI-assisted workflows  <br><br>🚀 Actively learning Power BI, statistics, and applied AI for data-driven decision making  <br>📫 Open to internships, entry-level roles, and collaborative projects
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/
-nadirkhan-dataanalyst)
-  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nadirkhan5864@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NADIR789259&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NADIR789259&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NADIR789259&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<h1 align="center">Hi, I'm Nadir Khan 👋</h1>
+<h3 align="center">Data Analyst | SQL • Python • Power BI • Excel</h3>
+ 
+<p align="center">
+  <a href="https://nadir789259.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nadirkhan-dataanalyst/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nadirkhan5864@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 ---
-[![](https://visitcount.itsvg.in/api?id=NADIR789259&icon=0&color=0)](https://visitcount.itsvg.in)
+ 
+### 🧭 About Me
+ 
+- 🎯 Data Analyst with hands-on, project-based experience across **SQL, Python, Power BI, and Excel**
+- 📊 I turn raw, messy datasets into dashboards and reports that actually support decisions — not just charts for the sake of it
+- 🤖 Currently expanding into **Machine Learning** (scikit-learn, model evaluation) and AI-assisted analytics workflows
+- 🎓 Diploma in Computer Engineering | Based in Haryana, India
+- 📫 Open to **Data Analyst / Junior Data Scientist** internships, entry-level roles, and collaborative projects
+---
+ 
+### 🚀 Featured Projects
+ 
+| Project | What it does | Tools |
+|---|---|---|
+| **Ride Booking Analytics Dashboard** | Analyzed 150,000+ ride records to surface booking trends, cancellation patterns, and revenue insights | `Power BI` `Python` |
+| **India General Election 2024 Dashboard** | Interactive Power BI dashboard visualizing state-wise election results with custom SVG map icons | `Power BI` `DAX` |
+| **Customer Segmentation SQL Engine** | 20-query SQL engine on a 5-table schema performing RFM analysis for customer segmentation | `PostgreSQL` `MySQL` |
+| **E-Commerce Customer Behavior EDA** | Exploratory analysis of ~3,900 purchase records using automated profiling to surface buying patterns | `Python` `ydata-profiling` |
+| **Sales & Revenue Analytics Dashboard** | Power BI dashboard tracking sales KPIs, trends, and regional performance | `Power BI` |
+ 
+📂 **Full write-ups, screenshots & case studies:** [nadir789259.github.io](https://nadir789259.github.io/)
+💻 **Source code for all projects:** [github.com/NADIR789259](https://github.com/NADIR789259?tab=repositories)
+ 
+---
+ 
+### 🛠️ Tech Stack
+ 
+**Languages & Databases**
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+**BI, Reporting & Deployment**
+<p>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+**Python Libraries**
+<p>
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
+---
+ 
+### 📜 Certifications
+ 
+- Microsoft Power BI
+- SQL
+- Prompt Engineering
+- Google Digital Marketing (Digital Garage)
+- Professional Resume Writing
+---
+ 
+### 📊 GitHub Stats
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NADIR789259&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NADIR789259&theme=dark&hide_border=false" height="165"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NADIR789259&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+</p>
+---
+ 
+<p align="center">
+📫 <b>Let's connect</b> — <a href="https://www.linkedin.com/in/nadirkhan-dataanalyst/">LinkedIn</a> · <a href="mailto:nadirkhan5864@gmail.com">Email</a> · <a href="https://nadir789259.github.io/">Portfolio</a>
+</p>  helllo 
